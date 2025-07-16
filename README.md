@@ -20,5 +20,6 @@ A Python-based project utilizing Gemini API for AI interactions, with speech-to-
 
 - `Gordon/`: Core functionality
 - `deepgram/`: Speech processing components
+- 15 other APIs
 - `assets/`: Project assets
 
