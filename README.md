@@ -1,6 +1,6 @@
 # Gordon Master
 
-A Python-based project utilizing Gemini API for AI interactions, with speech-to-text and text-to-speech capabilities.
+A Python project utilizing Gemini API for AI interactions, with speech-to-text and text-to-speech capabilities.
 
 ## Features
 
