@@ -19,4 +19,3 @@ A Python project utilizing Gemini API for AI interactions, with speech capabilit
 - `deepgram/`: Speech processing components
 - 15 other APIs
 - `assets/`: Project assets
-
